@@ -19,7 +19,7 @@ public static void main(String[] args) {
     parkingService.showFreeParkingSlots("TRUCK");
 
 
-    //fourth test case will write here
+    //fourth test case will write here new field
 
 
 }
